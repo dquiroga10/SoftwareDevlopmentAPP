@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AMazeByDaniel_Gabe</string>
+    <string name="welcome_message">Welcome To Maze Game</string>
+    <string name="size">Choose Size:</string>
+    <string name="create_maze_algo">Maze Algorithm:</string>
+
+    <string-array name="builders">
+        <item>DFS</item>
+        <item>Eller</item>
+        <item>Prim</item>
+    </string-array>
+
+    <string name="driver_maze">Maze Driver:</string>
+    <string-array name="drivers">
+        <item>Manual</item>
+        <item>Wall Follower</item>
+        <item>Wizard</item>
+        <item>Explorer</item>
+        <item>Pledge</item>
+    </string-array>
+
+    <string name="revisit_button">Revisit</string>
+    <string name="explore_button">Explore</string>
+    <string name="generate_act">...Maze Generating...</string>
+    <string name="manual">Manual</string>
+    <string name="follower">Wall Follower</string>
+    <string name="wiz">Wizard</string>
+    <string name="explore">Explorer</string>
+    <string name="pledge">Pledge</string>
+    <string name="manual_play">Play Manually</string>
+    <string name="auto_drive">Drive Automatically</string>
+    <string name="toggle_maze">Map</string>
+    <string name="toggle_solution">Short Path</string>
+    <string name="toggle_walls">Seen Walls</string>
+    <string name="map_size_plus">Map +</string>
+    <string name="map_size_minus">Map -</string>
+    <string name="key_up">UP</string>
+    <string name="key_right">RIGHT</string>
+    <string name="key_left">LEFT</string>
+    <string name="winning">GO2WINNING</string>
+    <string name="losing">GO2LOOSING</string>
+    <string name="button_start">START</string>
+    <string name="button_pause">PAUSE</string>
+    <string name="path_length">YOUR PATH LENGTH:</string>
+    <string name="bat_lev">BATTERY USED:</string>
+    <string name="message_winning">CONGRATS!!</string>
+    <string name="message_losing1">YOU LOST..ITS OKAY</string>
+    <string name="message_losing2">YOU CAN PLAY AGAIN!</string>
+    <string name="title_activity_play_manually">PlayManuallyActivity</string>
+    <string name="title_activity_play_animation">PlayAnimationActivity</string>
+    <string name="title_activity_winning">WinningActivity</string>
+    <string name="title_activity_losing">LosingActivity</string>
+    <string name="title">GO BACK TO TITLE</string>
+    <string name="menu">MENU</string>
+</resources>

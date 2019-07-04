@@ -1,0 +1,10 @@
+Bonus Points
+
+
+-Added backgrounds to every activity to make sort of a mario theme throughout the application
+-Added a special background sound to every activity that goes along with what is happening
+    - The beginning screen sound track starts off slow so you might not notice it until after a few seconds
+    - Music stops when you move from activity to activity using the buttons
+-Changed the background of the actual application where in the MazePanel I draw the Mario background that
+you would see when you actually play the game
+- Added a form of Orientation for the user by printint out what direction the user is facing at the top of the Play Activities
